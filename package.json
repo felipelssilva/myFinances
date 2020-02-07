@@ -13,14 +13,14 @@
     "sails-hook-organics": "^0.16.0",
     "sails-hook-orm": "^2.1.1",
     "sails-hook-sockets": "^2.0.0",
-    "sails-mongo": "^1.1.0",
-    "grunt": "1.0.4"
+    "sails-mongo": "^1.1.0"
   },
   "devDependencies": {
     "eslint": "5.16.0",
     "htmlhint": "0.11.0",
     "lesshint": "6.3.6",
-    "sails-hook-grunt": "^4.0.0"
+    "sails-hook-grunt": "^4.0.0",
+    "grunt": "1.0.4"
   },
   "scripts": {
     "start": "NODE_ENV=production node app.js",
