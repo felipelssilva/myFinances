@@ -51,6 +51,9 @@ module.exports.datastores = {
     // adapter: 'sails-mysql',
     // url: 'mysql://user:password@host:port/database',
 
+    adapter: 'sails-mongo',
+    url: 'mongodb://heroku_7hq14q8l:f2ijjaukusr0befrvmom4vr4c1@ds055852.mlab.com:55852/heroku_7hq14q8l',
+
   },
 
 
